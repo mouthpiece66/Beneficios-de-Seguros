@@ -7,11 +7,11 @@ La empresa de seguros Sure Tomorrow busca aprovechar algoritmos de machine learn
 Objetivos del Proyecto
 
 1.	Encontrar clientes similares para fines de marketing.
-2.	
+   
 3.	Predecir la probabilidad de recibir beneficios con un modelo de clasificación.
-4.	
+   
 5.	Estimar la cantidad de beneficios mediante regresión lineal.
-6.	
+   
 7.	Proteger los datos personales utilizando álgebra lineal (transformación lineal) sin afectar negativamente el desempeño del modelo.
 
  Herramientas y Bibliotecas Utilizadas
